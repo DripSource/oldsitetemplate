@@ -1,4 +1,24 @@
-# Leonids Gatsby starter
+# Welcome to DripSource  
+## Directory of useful tools and resources for the DRIP Networks Ecosystem
+
+Greetings fellow DeFi-nauts and DRIP Community. Welcome to DripSource. Glad you made it.
+
+Our goal is to provide value to our fellow Drippers and the broaders ecosystem. How you might ask? Great question. Share the best and most trusted resources
+
+How?
+Earning your trust. Being a god citizen of the DRIP Community.
+
+Our mission to bring value to the DRIP community and the broader ecosystem. fw
+
+aim is to share  share useful tools and resources
+
+To our DRIP Network veterans, welcome. those who know, you know.
+
+For the those who don't, welcome. By whatever fortunate means you have stumbled upon DR
+
+By now, you've stumled into the Oasis in the DiFi desert
+
+Below is an evergrowing list of tools and resources used by the DRIP community.
 
 **[Leonids](http://renyuanz.github.io/leonids)** is a clean, fixed sidebar Gatsby starter which is perfect for powering your GitHub hosted blog.
 
